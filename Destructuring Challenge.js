@@ -3,7 +3,7 @@
     - Challenge
     */
 
-    let chosen = 3;
+    let chosen = 2;
 
     let myFriends = [
     { title: "Osama", age: 39, available: true, skills: ["HTML", "CSS"] },
@@ -15,12 +15,7 @@
         const [{title,age,available,skills:[,Css]}, , ] = myFriends
         console.log(title);
         console.log(age);
-        if(available === true){
-            console.log("Available");
-        }
-        else{
-            console.log("Not Available");
-        }
+        console.log(available?"Available":"Not Available")
         console.log(Css);
     }
 
@@ -28,12 +23,8 @@
         const [,{title,age,available,skills:[,Django]}, ] = myFriends
         console.log(title);
         console.log(age);
-        if(available === true){
-            console.log("Available");
-        }
-        else{
-            console.log("Not Available");
-        }
+        console.log(available?"Available":"Not Available");
+
         console.log(Django);
     }
 
@@ -41,12 +32,7 @@
         const [ , ,{title,age,available,skills:[,Laravel]}] = myFriends
         console.log(title);
         console.log(age);
-        if(available === true){
-            console.log("Available");
-        }
-        else{
-            console.log("Not Available");
-        }
+        console.log(available?"Available":"Not Available");
         console.log(Laravel);
     }
 
