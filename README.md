@@ -33,7 +33,7 @@ cd JavaScript_Challenges
 3. Run individual challenge files in the browser console or Node.js to test and tweak.
 
 🎯 **Purpose**  
-This project was created to:
+This project was created to:  
 • Reinforce JavaScript fundamentals  
 • Offer real-world problem-solving practice  
 • Prepare for interviews or technical assessments  
