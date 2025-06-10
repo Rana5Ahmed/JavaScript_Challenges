@@ -1,4 +1,5 @@
-🧠 #JavaScript Challenges
+🧠 # JavaScript Challenges
+
 A curated collection of JavaScript coding challenges focused on mastering core concepts through practical examples. These exercises cover a wide range of topics — from arrays and loops to advanced functions, the BOM/DOM, and regular expressions.
 
 📂 **Project Structure**
@@ -24,8 +25,10 @@ Each file/folder in this repository represents a standalone challenge:
 
 🚀 **How to Use**
 1. Clone the repo
+```
 git clone https://github.com/Rana5Ahmed/JavaScript_Challenges.git
 cd JavaScript_Challenges
+```
 2. Open in VS Code or your preferred editor.
 3. Run individual challenge files in the browser console or Node.js to test and tweak.
 
