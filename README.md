@@ -1,4 +1,4 @@
-🧠 # JavaScript Challenges
+# 🧠 JavaScript Challenges
 
 A curated collection of JavaScript coding challenges focused on mastering core concepts through practical examples. These exercises cover a wide range of topics — from arrays and loops to advanced functions, the BOM/DOM, and regular expressions.
 
@@ -32,17 +32,17 @@ cd JavaScript_Challenges
 2. Open in VS Code or your preferred editor.
 3. Run individual challenge files in the browser console or Node.js to test and tweak.
 
-🎯 **Purpose**
+🎯 **Purpose**  
 This project was created to:
 • Reinforce JavaScript fundamentals
 • Offer real-world problem-solving practice
 • Prepare for interviews or technical assessments
 
-🛠️ **Technologies Used**
+🛠️ **Technologies Used**  
 • JavaScript (ES6+)
 • HTML (for BOM/DOM folders if included)
 
-📌 **Notes**
+📌 **Notes**  
 • Each file is written as a self-contained challenge.
 • Some folders (e.g., Dom Challenge, Bom Challenge) may include HTML/JS integration — open these in a browser for full interactivity.
 
